@@ -1,0 +1,4 @@
+**Hoi**
+First if you write a new command you need to start the deploy-command.js with "node deploy-command.js" in the shell
+
+That's it.
